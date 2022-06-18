@@ -27,6 +27,8 @@ npm i
 
 ### Usage
 
+[Link to deployed app on Heroku](https://arcane-coast-02762.herokuapp.com/)
+
 ![alt text](Assets/14-mvc-homework-demo-01.gif)
 
 ### Contributors
