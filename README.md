@@ -27,7 +27,7 @@ npm i
 
 ### Usage
 
-![alt text](assets/14-mvc-homework-demo-01.gif)
+![alt text](Assets/14-mvc-homework-demo-01.gif)
 
 ### Contributors
 
