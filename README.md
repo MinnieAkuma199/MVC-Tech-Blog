@@ -4,7 +4,7 @@
 
 ## Description
 
-- Developers need a place to publish their blog posts and comment on other developers’ posts. I build a CMS-style blog site similar to a Wordpress site & deployed it to Heroku.
+- Developers need a place to publish their blog posts and comment on other developers’ posts. I build a CMS-style blog app & deployed it to Heroku.
 
 - My app followed the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
