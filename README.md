@@ -4,25 +4,29 @@
 
 ## Description
 
--My task was to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. I built this site completely from scratch and deployed it to Heroku.
+- Developers need a place to publish their blog posts and comment on other developers’ posts. I build a CMS-style blog site similar to a Wordpress site & deployed it to Heroku.
 
--My app followed the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+- My app followed the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 ## Table of Contents
 
+- [Technology-Used](#technology-used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributors](#contributors)
-- [License](#license)
-- [Tests](#tests)
 - [Additional Questions](#additional-questions)
+- [License](#license)
+
+### Technology Used
+
+Tech Used: Handlebars.js, mySQL, Sequelize, Express, Bcrypt, Node
 
 ### Installation
 
 Handlebars.js, Sequelize, and express-session and other dependencies are installed by using the following command:
 
 ```md
-npm i
+$ npm i
 ```
 
 ### Usage
@@ -35,9 +39,6 @@ npm i
 
 **https://github.com/MinnieAkuma199**
 
-### Tests
-
-NA
 
 ### Additional Questions
 
